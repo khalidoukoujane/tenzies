@@ -5,3 +5,5 @@ is a web application that allows users to simulate dice rolls with different num
 `npm start`
 # demo
 [click here](https://rolldice-joy.netlify.app/)
+# Technologies Used
+* reactjs
