@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(250, 244, 236);
+    
+   
+    
+}
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    flex-direction: column;
+}
+.title{
+    color: rgb(219, 183, 136);
+    margin-top: -20px;
+    margin-bottom: 40px;
+    font-weight: 800;
+    font-size: 39px;
+    text-shadow: 5px 0px 1px rgb(0, 0, 0);
+    letter-spacing: 1.4px;
+}
