@@ -1,5 +1,5 @@
 # tenzies 
-is a web application that allows users to simulate dice rolls with different numbers of sides. The application is built with ReactJs, and is deployed on Netlify. The user interface is simple and intuitive, making it easy for anyone to use. 
+This was my first game in React when I was learning it on Scrimba. I learned a lot of things while building this project.
 # get started
 `npm install`
 `npm start`
